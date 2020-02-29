@@ -1,6 +1,6 @@
 # GitHub Actions Runner docker image
 
-**:warning::warning::warning: Use with caution, this is just experiment :warning::warning::warning:**
+**:warning::warning::warning: Use with caution, this is just an experiment :warning::warning::warning:**
 ---------
 
 Run github actions runner in docker.
