@@ -1,4 +1,6 @@
-# github-runner-docker
+# GitHub Actions Runner docker image
+
+**Use with caution, this is just experiment**
 
 Run github actions runner in docker.
 
