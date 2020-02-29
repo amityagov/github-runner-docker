@@ -18,4 +18,4 @@ docker build . -t my_runner --build-arg REPOSITORY_URL=https://your_repo_url --b
 
 ### Run
 
-docker run -d --name my_runner -v /var/run/docker.sock:/var/run/docker.sock my_runner:latest
+docker run -d --name my_runner my_runner:latest
